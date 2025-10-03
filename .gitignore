@@ -1,0 +1,11 @@
+old/
+figure2/output_graphics2-save
+figure2/old/
+figure2/*.ai
+.DS_Store
+.ipynb_checkpoints/
+figure2/component-a.ai
+figure4/output_graphics2
+output_graphics2/
+manuscript/
+figure4/component-a-new.ai
