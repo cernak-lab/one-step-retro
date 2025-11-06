@@ -52,20 +52,20 @@ class ReactionTargeter:
         self.building_blocks_a = [
             "[O:3]",
             "[N:3]",
-            "[C:3](=O)[O]",
+            "[C:3](=O)[OH]",
             "[Cl:3]",
             "[Br:3]",
             "[I:3]",
-            "[B:3](O)[OH]",
+            "[B:3]([OH])[OH]",
         ]
         self.building_blocks_b = [
             "[O:4]",
             "[N:4]",
-            "[C:4](=O)[O]",
+            "[C:4](=O)[OH]",
             "[Cl:4]",
             "[Br:4]",
             "[I:4]",
-            "[B:4](O)[OH]",
+            "[B:4]([OH])[OH]",
         ]
 
         self.building_blocks_labels_a = [
